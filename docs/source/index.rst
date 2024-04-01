@@ -1,22 +1,4 @@
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Welcome to Blender to DA™ Documentation
+=======================================
+This add-on can be used for newcomers of Blender, which only want to make little models and import/export to **DA™**.
+With this documentation I hope to help users understand better this tool.
